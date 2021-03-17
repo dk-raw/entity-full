@@ -7,7 +7,7 @@
   
   <hr/>
   
-  <i>in order for this to work you will have to move the .mdf file to your user folder</i>
+  <i>in order for this to work you will have to move the .mdf file to your default user folder</i>
   
 </div>
  
